@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'globalize', '~> 5.0.1'
 gem 'friendly_id', '~> 5.1.0'
 gem 'twitter-bootstrap-rails', '~> 3.2.0'
 gem 'devise', '~> 3.5.1'
