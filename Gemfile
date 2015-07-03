@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'friendly_id', '~> 5.1.0'
 gem 'twitter-bootstrap-rails', '~> 3.2.0'
 gem 'devise', '~> 3.5.1'
 gem 'activeadmin', '~> 1.0.0.pre1'
