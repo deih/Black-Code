@@ -1,0 +1,8 @@
+TODO w ramach prostego testu:
+Utworzyć aplikacje railsowa, z podpiętym panelem do zarzadzania treścią Active Admin, (http://activeadmin.info)
+tak aby:
+•	można było generować dynamicznie podstrony serwisu,  z przyjaznymi linkami (generowanymi z nazwy)
+•	każda podstrona z tłumaczeniem contentu na dwie wersje językowe
+Podpowiedź:
+•	gem activeadmin
+•	gem friendly_id
